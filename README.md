@@ -3,7 +3,6 @@
 An AI-powered career recommendation system that uses **LSTM deep learning** to provide personalized career guidance based on a student's skills, interests, and educational background.
 
 > Developed by **Pragya Mishra** & **Bindu Sri Manne** — Kennesaw State University  
-> Supervised by **Md Abdullah Al Hafiz Khan**, Dept. of Computer Science
 
 ---
 
